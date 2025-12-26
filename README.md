@@ -1,4 +1,4 @@
-# AMIMUN '25 - Official Website
+# AMIMUN '26 - Official Website
 
 Welcome to the official repository for the AMIMUN '25 conference website. This project contains the frontend code for the AMIMUN (Amity Model United Nations) 2025 conference website.
 
@@ -64,4 +64,4 @@ For any queries, please contact the development team at [your-email@example.com]
 
 ---
 
-Made with ❤️ by the AMIMUN '25 Tech Team
+Made with ❤️ by the AMIMUN '26 Tech Team
